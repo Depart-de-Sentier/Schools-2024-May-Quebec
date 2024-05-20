@@ -18,7 +18,7 @@
 
 * [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
 
-Notebooks used in class with new code are given in the "class-notebooks" directory.
+Notebooks used in class with new code are given in the "class-materials" / "brightway-basics" directory.
 
 ## 16:30 - 18:00 Premise basics
 
@@ -33,5 +33,6 @@ Notebooks used in class with new code are given in the "class-notebooks" directo
 **Prerequisites**:
 
 * Local Python installation (see [the docs](https://docs.brightway.dev/en/latest/content/installation/index.html))
+* Text editor - use [VSCode](https://code.visualstudio.com/) if you don't have a preference
 * [Github account](https://github.com/)
 * [ReadTheDocs account](https://about.readthedocs.com/) - use your Github account for Single Sign-On
