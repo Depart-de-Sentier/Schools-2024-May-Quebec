@@ -26,6 +26,21 @@ bw2io.restore_project_directory('/etc/data/ecoinvent-3.9.1-cutoff-bw2.tar.gz', o
 bw2data.projects.set_current('Quebec')
 ```
 
+Brightway class:
+
+```python
+import bw2io as bi
+import b2data as bd
+
+PROJECT_NAME = "ecoinvent-3.10-cutoff BW25"  # You can change this
+bi.restore_project_directory(
+    fp='/etc/data/ecoinvent-3.10-cutoff-bw25.tar.gz', 
+    project_name=PROJECT_NAME,  
+    overwrite_existing=True
+)
+bd.projects.set_current(PROJECT_NAME)
+```
+
 ## Guides and documentation
 
 * [pytest](https://docs.pytest.org/en/8.2.x/how-to/index.html)
