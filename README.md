@@ -17,6 +17,15 @@ Material and organization for the DdS 2024 Spring School
 
 * [Jupyter Hub server](https://hub.brightway.dev)
 
+Restoring clean Brightway projects:
+
+Wurst and Premise class:
+
+```python
+bw2io.restore_project_directory('/etc/data/ecoinvent-3.9.1-cutoff-bw2.tar.gz', overwrite_existing=True)
+bw2data.projects.set_current('Quebec')
+```
+
 ## Guides and documentation
 
 * [pytest](https://docs.pytest.org/en/8.2.x/how-to/index.html)
