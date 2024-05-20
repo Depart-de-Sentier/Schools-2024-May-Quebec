@@ -22,7 +22,7 @@
 
 ## 15:00 - 18:00 Brightway basics
 
-* [Teaching Material]
+* [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
 
 ## 20:00 - 21:00 Python library and packaging basics
 
