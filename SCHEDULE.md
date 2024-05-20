@@ -14,11 +14,11 @@
 
 ## 13:00 - 14:00 Wurst basics continued
 
-## 15:00 - 17:00 Brightway basics
+## 14:00 - 16:30 Brightway basics
 
 * [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
 
-## 17:00 - 18:00 Premise basics
+## 16:30 - 18:00 Premise basics
 
 * [Teaching Material](https://github.com/romainsacchi/wurst-premise-training-2024)
 
