@@ -65,9 +65,16 @@ cruft create https://github.com/brightway-lca/cookiecutter-brightwaylib
 
 You will be guided through a series of questions, which will determine the name of your package, the author, the license, etc.
 
+> [!WARNING]
+> In this example, the package is called `bw_test`. You will need to use a different name for your package!
+> This is because packages on PyPi Test (just like on "regular" PyPi) must have unique names.
+> There is already a package called `wurst` in the Brightway ecosystem... so why not `sauerkraut`, or `beer`?
+
 ## Make Edits to your Package
 
-The most basic edits you can make are to add a "Hello, world!" function to your package. You can therefore add the function
+You have now created the basic structure of your package.
+
+The most simple edit you can make is to add a "Hello, world!" function to your package. You can therefore add the function
 
 ```python
 def hello_world():
