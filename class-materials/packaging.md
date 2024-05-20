@@ -163,6 +163,10 @@ __NOW__ you are set! You can upload the package to PyPi Test using `twine`:
 twine upload -r testpypi --repository bw-test dist/*
 ```
 
+> [!NOTE]
+> Do not worry! You can NOT accidentally "overwrite" package versions that have already been uploaded.
+> You need to change the version number in the `__version__` variable in the `__init__.py` file in order to upload a new version.
+
 ## Installing your Package from PyPi Test
 
 You can now install your package from PyPi Test [using a special `pip install` command](https://packaging.python.org/en/latest/guides/using-testpypi/#using-testpypi-with-pip):
