@@ -121,13 +121,10 @@ __version__ = "0.0.1"
 In order to "ship" your package to other users via the PyPi repository, you need to "build" it first. This will create a "wheel" file (`.whl`) of your package, that can be uploaded to PyPi. The tool used to build the package is called `setuptools`. It is defined in the `pyproject.toml` file.
 
 ```bash
-python3 -m build
+python3 -m build --wheel
 ```
 
-
-```python
-banana
-```
+This will create a `dist` directory with the wheel file in it.
 
 ## Set up `twine`
 
@@ -153,7 +150,7 @@ Create a file called `~/.pypirc` with the following content:
   password = <API_TOKEN>
 ```
 
-Save this file. It will be used by `twine` to authenticate you when uploading your package:
+__NOW__ you are set! You can upload the package to PyPi Test using `twine`:
 
 ```bash
 twine upload -r testpypi --repository bw-test dist/*
