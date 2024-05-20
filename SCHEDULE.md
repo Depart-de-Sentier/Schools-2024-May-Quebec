@@ -29,3 +29,5 @@
 **Prerequisites**:
 
 * Local Python installation (see [the docs](https://docs.brightway.dev/en/latest/content/installation/index.html))
+* [Github account](https://github.com/)
+* [ReadTheDocs account](https://about.readthedocs.com/) - use your Github account for Single Sign-On
