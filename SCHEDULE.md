@@ -18,6 +18,8 @@
 
 * [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
 
+Notebooks used in class with new code are given in the "class-notebooks" directory.
+
 ## 16:30 - 18:00 Premise basics
 
 * [Teaching Material](https://github.com/romainsacchi/wurst-premise-training-2024)
