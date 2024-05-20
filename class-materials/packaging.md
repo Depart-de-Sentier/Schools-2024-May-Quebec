@@ -15,17 +15,23 @@ Creating a Python package is pretty easy, and we have templates to make common t
 [Primary step-by-step guide on ADVANCED packaging at `packaging.python.org`](https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/#publishing-package-distribution-releases-using-github-actions-ci-cd-workflows)
 
 
-Most important terms:
+## Terminology
+
+### Module
 
 [Module](https://packaging.python.org/en/latest/glossary/#term-Pure-Module)
-[(Import) Package](https://packaging.python.org/en/latest/glossary/#term-Import-Package)
 
 > A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended.
-https://docs.python.org/3/tutorial/modules.html#
+> - [Python Documentation](https://docs.python.org/3/tutorial/modules.html)
+
+### Package
+
+[(Import) Package](https://packaging.python.org/en/latest/glossary/#term-Import-Package)
+
+### `__init__.py`-File
 
 > The `__init__.py` files are required to make Python treat directories containing the file as packages (...) \
 > - [Python Documentation](https://docs.python.org/3/tutorial/modules.html#packages)
-
 
 
 ## Creating a Virtual Environment
@@ -35,14 +41,12 @@ https://docs.python.org/3/tutorial/modules.html#
 
 Follow the [official Python `venv` documentation](https://docs.python.org/3/library/venv.html) to set up a virtual environment.
 
-
-
 ## Install Build Tools
 
 In order to build a Python package, you need to install a few tools:
 
 ```bash
-pip install setuptools twine cruft
+pip install build setuptools twine cruft
 ```
 
 ## Create a Python Package (based on [the Brightway template](https://github.com/brightway-lca/cookiecutter-brightwaylib))
@@ -112,15 +116,27 @@ __all__ = (
 __version__ = "0.0.1"
 ```
 
+## Build your Package
+
+In order to "ship" your package to other users via the PyPi repository, you need to "build" it first. This will create a "wheel" file (`.whl`) of your package, that can be uploaded to PyPi. The tool used to build the package is called `setuptools`. It is defined in the `pyproject.toml` file.
+
+```bash
+python3 -m build
+```
+
+
 ```python
 banana
 ```
 
 ## Set up `twine`
 
-Create an API token at PyPI Test.
+Create [an API token at PyPI Test](https://pypi.org/help/#apitoken). This will allow you to upload your package directly to PyPi Test using `twine`.
 
-Copy the token to your 
+Create a file called `~/.pypirc` with the following content:
+
+> [!IMPORTANT]
+> PyPi may change the "_" in package names to a minus/dash "-". In this case, the package name is `bw-test`, but the repository name is `bw_test`.
 
 ```
 [distutils]
@@ -137,7 +153,9 @@ Copy the token to your
   password = <API_TOKEN>
 ```
 
+Save this file. It will be used by `twine` to authenticate you when uploading your package:
 
 ```bash
 twine upload -r testpypi --repository bw-test dist/*
 ```
+
