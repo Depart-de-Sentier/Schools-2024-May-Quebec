@@ -12,17 +12,19 @@
 
 * [Teaching Material](https://github.com/romainsacchi/wurst-premise-training-2024)
 
-## 13:00 - 14:30 Premise basics
+## 13:00 - 14:00 Wurst basics continued
+
+## 15:00 - 17:00 Brightway basics
+
+* [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
+
+## 17:00 - 18:00 Premise basics
 
 * [Teaching Material](https://github.com/romainsacchi/wurst-premise-training-2024)
 
 **Prerequisites**
 
 * Local installation of Activity Browser and Premise (see teaching material)
-
-## 15:00 - 18:00 Brightway basics
-
-* [Teaching Material](https://github.com/brightway-lca/from-the-ground-up)
 
 ## 20:00 - 21:00 Python library and packaging basics
 
