@@ -156,3 +156,20 @@ __NOW__ you are set! You can upload the package to PyPi Test using `twine`:
 twine upload -r testpypi --repository bw-test dist/*
 ```
 
+## Installing your Package from PyPi Test
+
+You can now install your package from PyPi Test [using a special `pip install` command](https://packaging.python.org/en/latest/guides/using-testpypi/#using-testpypi-with-pip):
+
+```bash
+python3 -m pip install --index-url https://test.pypi.org/simple/ bw_test
+```
+
+## Installing your Package Locally
+
+You can also install your package locally (directly from your computer), [using a special `pip install` command](https://pip.pypa.io/en/stable/cli/pip_install/#cmdoption-e):
+
+```bash
+pip install --editable <PATH_TO_PACKAGE_DIRECTORY>
+```
+
+The `--editable` flag will install the package in "editable" mode, meaning that you can make changes to the package and they will be immediately available to the user. Amazing! We will try this out together.
