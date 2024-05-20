@@ -30,6 +30,8 @@ Notebooks used in class with new code are given in the "class-materials" / "brig
 
 ## 20:00 - 21:00 Python library and packaging basics
 
+See "class-materials" / "packaging.md" file.
+
 **Prerequisites**:
 
 * Local Python installation (see [the docs](https://docs.brightway.dev/en/latest/content/installation/index.html))
