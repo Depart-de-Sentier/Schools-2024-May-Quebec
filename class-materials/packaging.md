@@ -1,6 +1,5 @@
 # Python Library and Packaging Basics
 
-
 > [!IMPORTANT]
 > **Prerequisites**:
 > * A local Python installation (see [the docs](https://docs.brightway.dev/en/latest/content/installation/index.html)).
@@ -13,7 +12,6 @@ Creating a Python package is pretty easy, and we have templates to make common t
 
 [Primary step-by-step guide on BASIC packaging at `packaging.python.org`](https://packaging.python.org/en/latest/tutorials/packaging-projects/) \
 [Primary step-by-step guide on ADVANCED packaging at `packaging.python.org`](https://packaging.python.org/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/#publishing-package-distribution-releases-using-github-actions-ci-cd-workflows)
-
 
 ## Terminology
 
