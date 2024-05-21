@@ -46,8 +46,8 @@ body:
         - 8
         - 9
         - 10
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     id: expertise_python
     attributes:
