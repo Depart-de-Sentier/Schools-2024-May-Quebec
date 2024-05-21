@@ -76,13 +76,17 @@ See "class-materials" / "glossary.md" file.
 
 ## 18:00 - 20:00 Dinner (Le Réfectoire Historique)
 
-## 20:00 - 21:00 Pratical Git (Noviciat 1)
+## 20:00 - 22:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
 # Wednesday
 
 ## 7:00 - 8:00 Breakfast (Vivoir)
 
-## 8:00 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
+## 8:00 - 9:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
+
+## 9:00 - 10:00 Pratical Git Workflows (Noviciat 1)
+
+## 10:00 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
 
