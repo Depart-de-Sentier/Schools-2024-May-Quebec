@@ -45,7 +45,7 @@ See "class-materials" / "packaging.md" file.
 
 # Tuesday
 
-## 7:00 - 8:00 Breakfast (Vivoir)
+## 7:00 - 8:30 Breakfast (Vivoir)
 
 ## 9:00 - 11:30 Matrices in Brightway (Noviciat 1)
 
@@ -59,7 +59,12 @@ See "class-materials" / "documentation.md" file.
 
 ## 13:00 - 14:00 Testing (Noviciat 1)
 
-See "class-materials" / "testing.md" file.
+Preparation steps:
+
+* Create a new `venv`
+* Clone https://github.com/cmutel/intro-to-pytest via Github Desktop or other git client (or download zipfile)
+* In a terminal window, change to the source code directory
+* Run `pip install -r requirements.txt`
 
 ## 14:00 - 14:30 Glossary (Noviciat 1)
 
