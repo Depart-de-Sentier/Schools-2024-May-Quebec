@@ -14,7 +14,7 @@ body:
     id: description_short
     attributes:
       label: Short Description
-      description: "Describe your project in ONE sentence. That can be challenging - almost like an "elevator pitch"!"
+      description: "Describe your project in ONE sentence. That can be challenging - almost like an 'elevator pitch'!"
       value: |
       render: markdown
     validations:
