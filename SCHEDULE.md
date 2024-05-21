@@ -47,11 +47,11 @@ See "class-materials" / "packaging.md" file.
 
 ## 7:00 - 8:00 Breakfast (Vivoir)
 
-## 8:00 - 11:15 Matrices in Brightway (Noviciat 1)
+## 9:00 - 11:30 Matrices in Brightway (Noviciat 1)
 
 Same teaching material as the Brightway basics.
 
-## 11:15 - 12:00 Documentation (Noviciat 1)
+## 11:30 - 12:00 Documentation (Noviciat 1)
 
 See "class-materials" / "documentation.md" file.
 
