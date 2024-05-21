@@ -1,55 +1,64 @@
-title: "[Ideas] "
+title: "(Add your project name here!)"
 labels: ["Ideas"]
 body:
-  - type: markdown
-    attributes:
-      value: |
-        This is text that will show up in the template!
   - type: textarea
-    id: improvements
+    id: authors
     attributes:
-      label: Top 3 improvements
-      description: "What are the top 3 improvements we could make to this project?"
+      label: Project Author(s)
+      description: "Who is proposing this project? If multiple people are involved, please list all names."
       value: |
-        1.
-        2.
-        3.
-        ...
-      render: bash
+      render: markdown
     validations:
       required: true
-  - type: markdown
+  - type: textarea
+    id: description_short
     attributes:
+      label: Short Description
+      description: "Describe your project in ONE sentence. That can be challenging - almost like an "elevator pitch"!"
       value: |
-        ## Markdown header
-        And some more markdown
-  - type: input
-    id: has-id
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: description_long
     attributes:
-      label: Suggestions
-      description: A description about suggestions to help you
+      label: Long Description
+      description: "Describe your project in more detail. What are the goals? What are the deliverables? What are the potential challenges?"
+      value: |
+      render: markdown
     validations:
       required: true
   - type: dropdown
-    id: download
+    id: expertise_bw
     attributes:
-      label: Which area of this project could be most improved?
+      label: How do the authors rate their expertise in Brightway (0-10)?
       options:
-        - Documentation
-        - Pull request review time
-        - Bug fix time
-        - Release cadence
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+        - 10
+      validations:
+        required: true
+  - type: dropdown
+    id: expertise_python
+    attributes:
+      label: How do the authors rate their expertise in Python (0-10)?
+      options:
+        - 1
+        - 2
+        - 3
+        - 4
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+        - 10
     validations:
       required: true
-  - type: checkboxes
-    attributes:
-      label: Check that box!
-      options:
-        - label: This one!
-          required: true
-        - label: I won't stop you if you check this one, too
-  - type: markdown
-    attributes:
-      value: |
-        ### The thrilling conclusion
-        _to our template_
