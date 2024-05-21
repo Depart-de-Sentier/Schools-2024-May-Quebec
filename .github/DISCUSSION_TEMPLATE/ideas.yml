@@ -24,10 +24,16 @@ body:
     attributes:
       label: Long Description
       description: "Describe your project in more detail. What are the goals? What are the deliverables? What are the potential challenges?"
-      value: |
-        ...
+      placeholder: "We will build a WORLD MODEL 🌎 Mwhahaha!"
     validations:
       required: true
+  - type: textarea
+    id: image
+    attributes:
+      label: Illustration
+      description: "Do you have an image or document to illustrate the project? Please add it here!"
+    validations:
+      required: false
   - type: dropdown
     id: expertise_bw
     attributes:
