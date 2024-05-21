@@ -71,6 +71,8 @@ See "class-materials" / "glossary.md" file.
 
 ## 18:00 - 20:00 Dinner (Le Réfectoire Historique)
 
+## 20:00 - 21:00 Pratical Git (Noviciat 1)
+
 # Wednesday
 
 ## 7:00 - 8:00 Breakfast (Vivoir)
