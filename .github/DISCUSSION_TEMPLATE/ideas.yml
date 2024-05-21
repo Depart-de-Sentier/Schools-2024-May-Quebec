@@ -7,6 +7,7 @@ body:
       label: Project Author(s)
       description: "Who is proposing this project? If multiple people are involved, please list all names."
       value: |
+      ...
       render: markdown
     validations:
       required: true
@@ -16,6 +17,7 @@ body:
       label: Short Description
       description: "Describe your project in ONE sentence. That can be challenging - almost like an 'elevator pitch'!"
       value: |
+      ...
       render: markdown
     validations:
       required: true
@@ -25,6 +27,7 @@ body:
       label: Long Description
       description: "Describe your project in more detail. What are the goals? What are the deliverables? What are the potential challenges?"
       value: |
+      ...
       render: markdown
     validations:
       required: true
