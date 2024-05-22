@@ -84,7 +84,7 @@ See "class-materials" / "glossary.md" file.
 
 ## 8:00 - 9:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
-## 9:00 - 10:00 Pratical Git Workflows (Noviciat 1)
+## 9:00 - 10:00 Common Model Output Data Format (Noviciat 1)
 
 ## 10:00 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
