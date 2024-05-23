@@ -102,6 +102,13 @@ See [sentier.dev glossary client alpha version](https://github.com/Depart-de-Sen
 
 ## 9:00 - 9:30 Web Dashboards with [Panel](https://panel.holoviz.org/) (Noviciat 1)
 
+> [!IMPORTANT]
+> **Prerequisites**:
+> * Install these four Python packages into an environment of your choise (`venv` or `conda`):
+>   ```bash
+>   panel watchfiles hvplot plotly
+> * A text editor with code support. We recommend you use [VSCode](https://code.visualstudio.com/).
+
 ## 9:30 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
