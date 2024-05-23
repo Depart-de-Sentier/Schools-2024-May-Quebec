@@ -134,7 +134,7 @@ Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-Schoo
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
 
-## 13:00 - 14:00 Group Presenation Preparation (Noviciat 1 & 2, Petite Infirmerie)
+## 13:00 - 14:00 Group Presenation Preparation (Voûtes, Outside)
 
 ## 14:00 - 16:00 Group Presentations & Feedback (Voûtes - down stairs by breakfast room)
 
