@@ -4,6 +4,8 @@ Material and organization for the DdS 2024 Spring School
 
 * [Course Logistics and Schedule](https://docs.google.com/presentation/d/1z3JZPQE9w0Nf2U1CT-5EqsDmDKvJgrcEDx-6g2oJPaQ/edit?usp=sharing)
 
+![group-photo](Spring-School-2024.jpeg)
+
 ## Getting help
 
 > [!IMPORTANT]
