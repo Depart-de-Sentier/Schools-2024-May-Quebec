@@ -125,6 +125,14 @@ Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-Schoo
 
 ## 7:00 - 8:00 Breakfast (Vivoir)
 
+> [!IMPORTANT]
+> **GROUP PHOTO**:
+> Let's meet in front of the breakfast hall at 8:00 for a group photo.
+
+> [!IMPORTANT]
+> **GROUP PHOTO**:
+> Let's meet in front of the breakfast hall at 8:00 for a group photo.
+
 ## 8:00 - 12:00 Group Work (Noviciat 1 & 2, Petite Infirmerie)
 
 **Note**: The "Salon des Journaux" group will need to meet in main Noviciat room.
