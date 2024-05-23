@@ -129,14 +129,17 @@ Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-Schoo
 
 **Note**: The "Salon des Journaux" group will need to meet in main Noviciat room.
 
-## 10:00 - 10:15 Bring luggage to "La Salle de la Communauté 2"
+> [!IMPORTANT]
+> 10:00 - 10:15 Bring luggage to "La Salle de la Communauté 2"
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
 
 ## 13:00 - 14:00 Group Presenation Preparation (Noviciat 1 & 2, Petite Infirmerie)
 
-## 14:00 - 16:00 Group Presentations (Voûtes - down stairs by breakfast room)
+## 14:00 - 16:00 Group Presentations & Feedback (Voûtes - down stairs by breakfast room)
 
-## 16:00 - 16:30 Retrieve luggage from "La Salle de la Communauté 2"
+## 16:00 Farewell
 
-Please note that we need to leave the Voûtes at 16:00, and have the luggage out soon afterwards, as there are events in both rooms at around 17:00.
+> [!IMPORTANT]
+> 16:00 - 16:15 Retrieve luggage from "La Salle de la Communauté 2"
+> Please note that we need to leave the Voûtes at 16:00, and have the luggage out soon afterwards, as there are events in both rooms at around 17:00.
