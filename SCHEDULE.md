@@ -109,6 +109,8 @@ See [sentier.dev glossary client alpha version](https://github.com/Depart-de-Sen
 >   panel watchfiles hvplot plotly
 > * A text editor with code support. We recommend you use [VSCode](https://code.visualstudio.com/).
 
+Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-School-2024/tree/main/class-materials/panel).
+
 ## 9:30 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
