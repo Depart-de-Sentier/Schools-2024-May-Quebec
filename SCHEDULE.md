@@ -100,7 +100,9 @@ See "class-materials" / "glossary.md" file.
 
 ## 7:00 - 8:00 Breakfast (Vivoir)
 
-## 8:00 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
+## 9:00 - 9:30 Web Dashboards with [Panel](https://panel.holoviz.org/) (Noviciat 1)
+
+## 9:30 - 12:00 Group Work (Noviciat 1 & 2, Salon des Journaux, Petite Infirmerie)
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
 
