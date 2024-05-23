@@ -68,7 +68,7 @@ Preparation steps:
 
 ## 14:00 - 14:30 Glossary (Noviciat 1)
 
-See "class-materials" / "glossary.md" file.
+See [sentier.dev glossary client alpha version](https://github.com/Depart-de-Sentier/sentier_glossary)
 
 ## 14:30 - 15:30 Group Formation (Noviciat 1)
 
