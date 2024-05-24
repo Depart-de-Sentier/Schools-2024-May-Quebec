@@ -142,6 +142,15 @@ Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-Schoo
 
 ## 14:00 - 16:00 Group Presentations & Feedback (Voûtes - down stairs by breakfast room)
 
+Group presentations can be up to 10 minutes long, followed by 10 minutes for questions. You should consider talking about the following:
+
+* The software developed so far (demo)
+* The choices you made
+* What you would do differently if given another chance
+* Future perspectives
+
+* [Feedback survey link](https://forms.gle/7j2sZR1nXtWGCTSG9)
+
 ## 16:00 Farewell
 
 > [!IMPORTANT]
