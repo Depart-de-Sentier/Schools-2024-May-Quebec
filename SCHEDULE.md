@@ -149,6 +149,8 @@ Group presentations can be up to 10 minutes long, followed by 10 minutes for que
 * What you would do differently if given another chance
 * Future perspectives
 
+After the presentations we will have time for an **anonymous** feedback survey. You will also have an opportunity to share feedback with us and the rest of the group directly.
+
 * [Feedback survey link](https://forms.gle/7j2sZR1nXtWGCTSG9)
 
 ## 16:00 Farewell
