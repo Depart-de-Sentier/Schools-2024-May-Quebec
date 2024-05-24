@@ -138,7 +138,7 @@ Example code is [in this repo](https://github.com/Depart-de-Sentier/Spring-Schoo
 **Note**: The "Salon des Journaux" group will need to meet in main Noviciat room.
 
 > [!IMPORTANT]
-> 10:00 - 10:15 Bring luggage to "La Salle de la Communauté 2"
+> 10:00 - 10:15 Bring luggage to "Petite Infirmerie"
 
 ## 12:00 - 13:00 Lunch (Le Réfectoire Historique)
 
